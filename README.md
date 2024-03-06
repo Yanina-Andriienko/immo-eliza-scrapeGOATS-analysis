@@ -13,7 +13,8 @@ Our project aimed to identify investment opportunities in the Belgian housing ma
 
 ## Results 📈
 
-To see results of our analysis, please refer to the following files:
+To see results of our analysis, please refer to the following files: [Report_immo_eliza_scrapegoats.pdf](reports/Report_immo_eliza_scrapegoats.pdf)
+
 
 ## Sources 📚
 
